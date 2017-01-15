@@ -10,8 +10,8 @@ D : Move right<br />
 S : Move down<br />
 W : Move up<br /><br />
 
-Space : shoot egg<br />
-E : Explode egg<br />
+Space : Shoot egg<br />
+E : Exploding egg<br />
 Z : Change shooting direction counter-clockwise<br />
 X : Change shooting direction clockwise<br /><br />
 
