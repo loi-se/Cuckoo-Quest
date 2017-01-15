@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DB44E6D0-F429-8521-EDE5-8BD3C25685C5}") = "Cuckoo Mania", "Assembly-CSharp.csproj", "{BDAFFDDE-D436-4158-C1DF-D31ACDF919A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAFFDDE-D436-4158-C1DF-D31ACDF919A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAFFDDE-D436-4158-C1DF-D31ACDF919A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAFFDDE-D436-4158-C1DF-D31ACDF919A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAFFDDE-D436-4158-C1DF-D31ACDF919A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

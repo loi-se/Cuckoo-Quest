@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbc7a76b130f9434fb6e26d4fe737d48
+timeCreated: 1480791259
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - egg: {instanceID: 0}
+  - prefabEgg: {fileID: 1000012284014458, guid: b032c09894d98ad4b865d07cadc74736,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

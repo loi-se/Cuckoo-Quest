@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6814869850fd0cf40b87b175a673df9f
+timeCreated: 1480859368
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BirdEggRed: {fileID: 1000012331749262, guid: 9b7189066e75c7a4c8d4d9a9cb5a0319,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
