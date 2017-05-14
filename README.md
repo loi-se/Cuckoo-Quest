@@ -15,8 +15,8 @@ E : Exploding egg<br />
 Z : Change shooting direction counter-clockwise<br />
 X : Change shooting direction clockwise<br /><br />
 
-![image](http://www.seportfoliorm.site40.net/Cuckoo-Mania0.jpg)<br />
-![image](http://www.seportfoliorm.site40.net/Cuckoo-Mania1.jpg)
+![image](https://seportfoliorm.000webhostapp.com/Cuckoo-Mania0.jpg)<br />
+![image](https://seportfoliorm.000webhostapp.com/Cuckoo-Mania1.jpg)
 
 You can open this project with the Unity IDE. The free version of Unity can be downloaded here:<br />
 https://store.unity.com/
